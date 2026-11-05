@@ -6,16 +6,6 @@
 - **Status:** inactive since 2024-03
 - **Source:** agent research 2026-11-04
 
-This application provides a simplified user interface for leveraging the power of CrewAI, a cutting-edge framework for orchestrating role-playing autonomous AI agents. With this app, users can streamline the process of creating and managing AI crews without the need for coding.
-
-<h3>V0.1</h3>
-
-[![CrewAI Visualizer](https://img.youtube.com/vi/ZVZucnzccpk/0.jpg)](https://www.youtube.com/watch?v=ZVZucnzccpk)
-
-<h3>V0.2</h3>
-
-[![CrewAI Visualizer](https://img.youtube.com/vi/IpGmL_EM_bY/0.jpg)](https://www.youtube.com/watch?v=IpGmL_EM_bY)
-
 ## Features
 
 - **Intuitive UI**: The app offers a user-friendly interface, allowing users to easily create and manage AI crews.
