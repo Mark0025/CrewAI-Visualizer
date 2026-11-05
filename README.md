@@ -1,5 +1,11 @@
 # CrewAI Simplified App
 
+## About
+- **What it is:** A copy of someone else's web app that gives the CrewAI agent framework a point-and-click interface; Mark made no changes.
+- **Business:** learning
+- **Status:** inactive since 2024-03
+- **Source:** agent research 2026-11-04
+
 This application provides a simplified user interface for leveraging the power of CrewAI, a cutting-edge framework for orchestrating role-playing autonomous AI agents. With this app, users can streamline the process of creating and managing AI crews without the need for coding.
 
 <h3>V0.1</h3>
